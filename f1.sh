@@ -1,9 +1,5 @@
-Implement the login functionality
 
 Hello from the development
 
-Case 1
+Implement the login functionality
 
-Case 2
-
-We are now modifying some security settings to fix the authentication issue...
